@@ -2,8 +2,6 @@
 Data analytics project building an AWS Data Lake pipeline using S3, Glue, Redshift, Athena, Lake Formation, and QuickSight to integrate raw datasets, enforce governance, and deliver secure, real-time insights for scalable business decision-making.
 
 
-# AWS Data Lake Implementation – COSUE Energy Case Study  
-
 This repository demonstrates the end-to-end implementation of a **Data Lake on AWS** using the fictional company **COSUE Energy** as a case study.  
 The project highlights how AWS services can break down data silos, improve scalability, and enable advanced analytics for better decision-making.  
 
