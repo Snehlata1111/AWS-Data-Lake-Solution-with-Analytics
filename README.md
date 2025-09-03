@@ -60,4 +60,3 @@ We implemented a **centralized Data Lake** architecture on AWS to:
 
 ---
 
-## 📂 Repository Structure  
