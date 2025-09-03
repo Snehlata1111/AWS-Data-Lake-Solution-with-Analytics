@@ -60,3 +60,22 @@ We implemented a **centralized Data Lake** architecture on AWS to:
 
 ---
 
+
+---
+
+## Tech Stack  
+- **Storage:** Amazon S3  
+- **ETL & Cataloging:** AWS Glue, Lambda  
+- **Analytics:** Athena, Redshift Spectrum, QuickSight  
+- **Orchestration & Monitoring:** CloudWatch, Step Functions  
+- **Security & Governance:** IAM, Lake Formation  
+
+---
+
+## Getting Started  
+
+### 1. Clone the repo  
+```bash
+git clone https://github.com/<your-username>/aws-data-lake-cosue.git
+cd aws-data-lake-cosue
+
